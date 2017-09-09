@@ -1,0 +1,54 @@
+.standard{
+  font-family: "Lucida Bright", Georgia, serif;
+  font-size: 17px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+  color: white;
+}
+
+.title{
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  font-size: 50px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+  color: white;
+}
+
+.smallTitle{
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  font-size: 24px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+  color: white;
+}
+
+.blogOutline{
+  width: 900px;
+  border: 5px solid green;
+  background-color: #5387db;
+  border-style: double;
+}
+
+.SillyOutline{
+  width: 900px;
+  border: 5px solid orange;
+  background-color: #e59114;
+  border-style: double;
+}
+
+
+.blogDate{
+  font-family: "Lucida Bright", Georgia, serif;
+  font-size: 15px;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 500;
+  line-height: 26.4px;
+  color: #e3eaf4;
+}
